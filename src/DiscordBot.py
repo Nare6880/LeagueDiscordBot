@@ -162,4 +162,4 @@ def generateChampChart(me, matchHistory, matchType):
     #await ctx.send(f'Total kda over {len(matchHistory)} games: {TotalKills/TotalDeaths} ({TotalKills}/{TotalDeaths})')
 
 
-DiscordClient.run('MTAxODAxNjg1NjAxMzAzMzUzMw.Gk3Qms.3LW6RgUU53fw84DBWI6022V25R2E1dyyzpOPm0')
+DiscordClient.run(botToken)
